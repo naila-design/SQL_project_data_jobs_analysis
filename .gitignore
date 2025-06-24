@@ -1,0 +1,12 @@
+/.vscode
+/csv_files
+/ALTER TABLE 2 job_applied.sql
+/ALTER TABLE job_applied.sql
+/CASES.sql
+/CREATE TABLE january_jobs AS.sql
+/CREATE TABLE job_applied.sql
+/dates.sql
+/INSERT INTO job_applied.sql
+/Union, union all.sql
+/Tabelle e risultati temporanei (Subq e CTE).sql
+/UPDATE job_applied.sql
