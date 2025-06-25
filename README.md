@@ -5,9 +5,7 @@
 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
 # Background
-Driven by a quest to navigate the data engineer job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
-
-Data hails from my [SQL Course](/csv_files/). It's packed with insights on job titles, salaries, locations, and essential skills.
+Driven by a quest to navigate the data engineer job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs (data is taken from Luke Barousse SQL course, of data analytical jobs in 2023).
 
 The questions I wanted to answer through my SQL queries were:
 1. What are the top-paying data engineer jobs?
